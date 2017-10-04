@@ -1,0 +1,20 @@
+<resources>
+    <string name="user_name">Jane Doe</string>
+    <string name="stats_label">Background</string>
+
+    <string name="age_label">Age:</string>
+    <string name="age_data">67</string>
+
+    <string name="sex_label">Sex:</string>
+    <string name="sex_data">Female</string>
+
+    <string name="height_label">Height:</string>
+    <string name="height_data">5 ft 6 in</string>
+
+    <string name="weight_label">Weight: </string>
+    <string name="weight_data">109 lbs</string>
+
+    <string name="condition_title">Medical Conditions:</string>
+
+    <string name="lifestyle_title">Lifestyle:</string>
+</resources>
